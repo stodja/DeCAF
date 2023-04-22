@@ -42,7 +42,7 @@ they can license or become able to license.
 
 ## Reliability
 
-No contributor can revoke this license.
+This license can be removed only if all of the contributors agree to do so.
 
 ## No Liability
 
