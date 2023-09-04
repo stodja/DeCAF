@@ -73,7 +73,7 @@ In general, give credit in such a way that others can freely and readily find a 
 
 If widespread convention dictates a particular way to give credit for your kind of goods or services, such as by end credit for a film, citation for an academic paper, acknowledgment for a book, or billing for a show, then follow that convention. For software provided to users to run on their own computers, give credit in documentation, notice files, and any "about" page or screen. For software provided as a web service, give credit in credits.txt according to [credits.txt](#credits.txt)
 
-# credits.txt
+## credits.txt
 
 For each contributor, list their name and a description of what they contributed.
 Serve credits.txt as a UTF-8-encoded, plain-text file at root named credits.txt, without authentication.
