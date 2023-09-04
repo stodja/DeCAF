@@ -78,7 +78,7 @@ If widespread convention dictates a particular way to give credit for your kind 
 For each contributor, list their name and a description of what they contributed.
 Serve credits.txt as a UTF-8-encoded, plain-text file at root named credits.txt, without authentication.
 Include a link in your <head> tags:
-    <link rel="credits" href="/credits.txt" />
+    ```<link rel="credits" href="/credits.txt" />```
 See [this site’s credits.txt](https://creditstxt.com/credits.txt) for an example.
 
 ## Who to Credit
